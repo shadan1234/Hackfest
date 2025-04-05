@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Swayam-code/GrowFi-Frontend.git
+[submodule "mobile-app"]
+	path = mobile-app
+	url = https://github.com/Swayam-code/GrowFi-App-Frontend.git
