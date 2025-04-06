@@ -4,7 +4,7 @@ GrowFi is a modern web application that provides a unified platform for managing
 
 ## Live Demo
 
-Check out the live demo: [GrowFi App Demo](https://growfi-frontend.vercel.app)
+Check out the live demo: [video link]https://www.loom.com/share/98d061fba8674aab93a025fe1395b53c?sid=3d06a3a2-51c4-487b-acf0-130af02fbad4
 
 ## Project Vision
 
